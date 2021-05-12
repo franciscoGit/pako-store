@@ -1,0 +1,2 @@
+# pako-store
+Woocommerce test
